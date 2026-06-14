@@ -1,12 +1,12 @@
 <div align="center">
 
+![Visitor Count](https://komarev.com/ghpvc/?username=AKHILANAK7&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Akhilan%20Arumugam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Software%20Developer&descAlignY=60&descSize=20" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Akhilan+%F0%9F%91%8B;AI-Powered+Software+Developer;Full-Stack+%7C+Mobile+%7C+Cloud;Building+things+that+actually+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+%7C+Mobile+%7C+Cloud+Engineer+%F0%9F%9A%80;Flutter+%7C+React+%7C+Spring+Boot+Developer;Building+AI-Powered+Solutions+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -74,7 +74,35 @@ I'm a **Software Engineer** based in **Bengaluru, India** — currently at **ACL
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AKHILANAK7&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AKHILANAK7&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AKHILANAK7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHILANAK7&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKHILANAK7/AKHILANAK7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKHILANAK7/AKHILANAK7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AKHILANAK7/AKHILANAK7/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -102,7 +130,7 @@ I'm a **Software Engineer** based in **Bengaluru, India** — currently at **ACL
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 *"Build it. Ship it. Improve it."*
 
