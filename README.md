@@ -69,12 +69,12 @@ I'm a **Software Engineer** based in **Bengaluru, India** — currently at **ACL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilan-arumugam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilan-arumugam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AKHILANAK7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILANAK7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=akhilan-arumugam&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AKHILANAK7&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
 
 </div>
 
@@ -93,8 +93,8 @@ I'm a **Software Engineer** based in **Bengaluru, India** — currently at **ACL
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilanarumugam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilsanju12345@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9965244469-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919965244469)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilanarumugam2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKHILANAK7)
 
 </div>
 
