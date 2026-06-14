@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=818CF8&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+apps+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;Flutter+%E2%80%A2+React+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Always+learning+%E2%80%A2+Always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+apps+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;Flutter+%E2%80%A2+React+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;RAG+Systems+%E2%80%A2+Local+LLMs+%E2%80%A2+Voice+AI;Always+learning+%E2%80%A2+Always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,25 +27,32 @@ name       : Akhilan Arumugam
 role       : Software Engineer @ ACL Digital
 location   : Bengaluru, India 🇮🇳
 education  : MCA — Madurai Kamaraj University
-focus      : Full-Stack • Mobile • AI/LLMs • Cloud
+focus      : Full-Stack • Mobile • AI/LLMs • Voice AI • Automation
 contact    : akhilanarumugam2002@gmail.com
+secret     : Building an OS-level AI system with memory, vision & emotional response 🤫
 ```
 
 - 🔭 Currently building the full web platform for **Aster Computers**
 - 📱 Shipped Aster's **Android & iOS apps** end-to-end
-- 🧠 Exploring **LLMs, automation, and AI-native product development**
+- 🧠 Built **RAG systems** in Flutter & Web with local LLMs
+- 🤖 Running **Qwen, Llama, Mistral, Gemma, DeepSeek, Phi-3, Nemotron** locally via Ollama & LM Studio
+- 🔧 Automating workflows with **N8N**
 - 🏫 Mentored **10+ students** in C, Java, Python & Prompt Engineering
-- 💬 Ask me about Flutter, Spring Boot, React, or anything AI-related
+- 💬 Ask me about Flutter, LLMs, RAG, Spring Boot, or anything AI-related
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I've Built
 
 | 🏗️ Project | ⚙️ Stack | 🚦 Status |
 |---|---|---|
-| Aster Computers Web Platform | React.js, Spring Boot, AWS | 🔨 In Progress |
-| Aster Computers Mobile App | Flutter, Firebase | ✅ Deployed |
-| AI-Powered Personal Projects | Python, LLMs, Ollama | ⚡ Ongoing |
+| 🌐 Aster Computers Web Platform | React.js, Spring Boot, AWS | 🔨 In Progress |
+| 📱 Aster Computers Mobile App | Flutter, Firebase | ✅ Deployed |
+| ✅ Task Management App — Aster Computers | Flutter, Firebase, Admin + Staff roles | ✅ Deployed |
+| 🧾 Invoice Generator Web App | React, Node.js, Tailwind CSS, Firebase | ✅ Deployed |
+| 🍎 DualSense macOS Controller App | Swift, Xcode, Google Antigravity | 🔒 Private |
+| 🤖 RAG AI System | Flutter + Web, Local LLMs, Vector DB | ✅ Built |
+| 🧠 OS-Level AI Assistant | Voice AI, Local LLMs, Vision, Vector Memory | ⚡ Building |
 
 ---
 
@@ -64,7 +71,9 @@ contact    : akhilanarumugam2002@gmail.com
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **🗄️ Databases**
 
@@ -77,6 +86,32 @@ contact    : akhilanarumugam2002@gmail.com
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+**🤖 AI & LLMs**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-6366F1?style=for-the-badge&logo=artifacthub&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**🧠 Models I Run Locally**
+
+![Llama](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=for-the-badge&logo=alibabadotcom&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-00A6FB?style=for-the-badge&logo=deepseek&logoColor=white)
+![Phi-3](https://img.shields.io/badge/Phi--3-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Nemotron](https://img.shields.io/badge/Nemotron-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**⚡ Dev & Automation Tools**
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
